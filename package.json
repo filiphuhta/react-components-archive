@@ -1,11 +1,11 @@
 {
   "name": "react-components-archive",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "A react component library",
-  "homepage": "https://@filiphuhta.github.io/react-component-library",
+  "homepage": "https://filiphuhta.github.io/react-components-archive",
   "repository": {
     "type": "git",
-    "url": "https://github.com/filiphuhta/react-component-library.git"
+    "url": "https://github.com/filiphuhta/react-componens-archive.git"
   },
   "scripts": {
     "rollup": "rollup -c",
