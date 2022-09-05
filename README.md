@@ -1,4 +1,5 @@
-# React Component Library
+# React Components Archive
+A react component library with differnt types of react components.
 
 ## Getting started
 
