@@ -25,7 +25,7 @@ const App = ({ }) => {
 ```
 
 ## Live demo in Storybook
-[Link to live demo site](https://filiphuhta.github.io/react-component-library/)
+[Link to live demo site](https://filiphuhta.github.io/react-components-archive)
 ## Available Scripts
 ### Build the library
 
