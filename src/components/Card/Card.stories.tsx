@@ -5,8 +5,7 @@ import Card from './Card';
 
 // More on default export: https://storybook.js.org/docs/react/writing-stories/introduction#default-export
 export default {
-  header: 'ReactComponentLibrary/Card',
-  text: 'ReactComponentLibrary/Card',
+  title: 'ReactComponent/Card',
   component: Card,
 } as ComponentMeta<typeof Card>;
 
